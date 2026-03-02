@@ -1,4 +1,4 @@
-# Dose
+# pixels
 coffee brand
 
 Project Name 
